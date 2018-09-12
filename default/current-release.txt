@@ -1,0 +1,12 @@
+# this file is for schema creation.
+# add full names of the DDL or SQL files in this file, one file per row
+# please note that the order is important - the DDLs will be executed in the order given here.
+# do not use commas, any special symbols
+
+# you can add comments like this one - marked with the '#' symbol, you can have empty lines - those will be ignored by the interpreter
+# only lines with the first symbol a '#' will be recognised as comments. You cannot have a ddl file name followed by a # and a comment in the same line
+
+# Example:
+# create_table__order_lines.sql
+# create_indexes__order_lines.sql
+
